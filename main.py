@@ -6,8 +6,8 @@ import time
 import json
 import threading
 import os
-import tg send
-with open("flag.json", "r", encoding="utf-8") as f:
+
+th open("flag.json", "r", encoding="utf-8") as f:
     FLAGS = json.load(f)
 
 # ================= CONFIG =================
